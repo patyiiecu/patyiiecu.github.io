@@ -1,0 +1,54 @@
+= Math 2228, Elementary Statistical Methods I
+:source-highlighter: coderay
+:stem: latexmath
+
+In this set of notes we work through some notions and
+examples from statistics.  You can read the questions
+here, study the written or handwritten notes, and while doing
+so, listen to some explanations by clicking on the
+"play" button.
+
+link:2228-01.html[Lesson 1, Introduction to the Practice of Statistics.]
+link:2228-02.html[Lesson 2, Observational Studies versus Designed Experiments.]
+link:2228-03.html[Lesson 3, Simple Random Sampling.]
+link:2228-04.html[Lesson 4, Other Effective Sampling Methods.]
+link:2228-05.html[Lesson 5, Bias in Sampling.]
+link:2228-06.html[Lesson 6, The Design of Experiments.]
+link:2228-07.html[Lesson 7, Organizing Qualitative Data.]
+link:2228-08.html[Lesson 8, Organizing Quantitative Data.]
+link:2228-09.html[Lesson 9, Graphical Misrepresentations of Data.]
+link:2228-10.html[Lesson 10, Measures of Central Tendency.]
+link:2228-11.html[Lesson 11, Measures of Dispersion.]
+link:2228-12.html[Lesson 12, Measures of Central Tendency and Dispersion from Grouped Data.]
+link:2228-13.html[Lesson 13, Mock Midterm Exam 1.]
+link:2228-14.html[Lesson 14, Measures of Position and Outliers.]
+link:2228-15.html[Lesson 15, The Five-Number Summary and Boxplots.]
+link:2228-16.html[Lesson 16, Scatter Diagrams and Correlation.]
+link:2228-17.html[Lesson 17, Least-Squares Regression.]
+link:2228-18.html[Lesson 18, The Coefficient of Determination.]
+link:2228-19.html[Lesson 19, Contingency Tables and Association.]
+link:2228-20.html[Lesson 20, Probability Rules.]
+link:2228-21.html[Lesson 21, The Addition Rule and Complements.]
+link:2228-22.html[Lesson 22, Independence and the Multiplication Rule.]
+link:2228-23.html[Lesson 23, Conditional Probability and the General Multiplication Rule.]
+link:2228-24.html[Lesson 24, Counting Techniques.]
+link:2228-25.html[Lesson 25, Putting It Together: Which Method Do I Use?]
+link:2228-26.html[Lesson 26, Discrete Random Variables.]
+link:2228-27.html[Lesson 27, The Binomial Probability Distribution.]
+link:2228-28.html[Lesson 28, Properties of the Normal Distribution.]
+link:2228-29.html[Lesson 29, Applications of the Normal Distribution.]
+link:2228-30.html[Lesson 30, Assessing Normality.]
+link:2228-31.html[Lesson 31, The Normal Approximation to the Binomial Probability Distribution.]
+link:2228-32.html[Lesson 32, Mock Midterm Exam 2.]
+link:2228-33.html[Lesson 33, Distribution of the Sample Mean.]
+link:2228-34.html[Lesson 34, Distribution of the Sample Proportion.]
+link:2228-35.html[Lesson 35, Estimating a Population Proportion.]
+link:2228-36.html[Lesson 36, Estimating a Population Mean.]
+link:2228-37.html[Lesson 37, Putting It Together: Which Procedure Do I Use?]
+link:2228-38.html[Lesson 38, The Language of Hypothesis Testing.]
+link:2228-39.html[Lesson 39, Hypothesis Tests for a Population Proportion.]
+link:2228-40.html[Lesson 40, Hypothesis Tests for a Population Mean.]
+link:2228-41.html[Lesson 41, Putting It Together: Which Method Do I Use?]
+link:2228-42.html[Lesson 42, Mock Midterm Exam 3.]
+link:2228-43.html[Lesson 43, Mock Final Exam.]
+
