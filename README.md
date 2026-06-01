@@ -1,3 +1,3 @@
 # patyiiecu.github.io
 
-This is a web site for use with a math class.
+[Math 2228 slides](./math2228/slides.html)
