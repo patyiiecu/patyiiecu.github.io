@@ -1,0 +1,22 @@
+= Math 2228, Elementary Statistical Methods I
+:source-highlighter: coderay
+:stem: latexmath
+
+In this set of notes we work through some notions and
+examples from statistics.  You can read the questions
+here, study the written or handwritten notes, and while doing
+so, listen to some explanations by clicking on the
+"play" button.
+
+== Review for Midterm Exam 2.
+
+link:https://patyiiecu.github.io/math2228/slides/2228-32.html[Please work through Mock Midterm Exam 2.]
+You can view the questions, the solutions, and listen to some audio explanations.
+You can prepare spreadsheets similar to the ones shown (as pictures) in
+the solution linked to above for use in the real exam.
+
+link:./2-mock-midterm-exam-2.pdf[2-mock-midterm-exam-2.pdf]
+
+There is web page with video solutions.
+
+link:./sn-video.html[sn-video.html]
