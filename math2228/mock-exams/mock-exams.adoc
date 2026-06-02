@@ -1,0 +1,17 @@
+= Math 2228, Elementary Statistical Methods I
+:source-highlighter: coderay
+:stem: latexmath
+
+In this set of notes we work through some notions and
+examples from statistics.  You can read the questions
+here, study the written or handwritten notes, and while doing
+so, listen to some explanations by clicking on the
+"play" button.
+
+link:./1-mock-midterm-exam-1/review-for-midterm-exam-1.html[Review for Midterm Exam 1.]
+
+link:./2-mock-midterm-exam-2/review-for-midterm-exam-2.html[Review for Midterm Exam 2.]
+
+link:./3-mock-midterm-exam-3/review-for-midterm-exam-3.html[Review for Midterm Exam 3.]
+
+link:./4-mock-final-exam/review-for-final-exam.html[Review for the Final Exam.]
