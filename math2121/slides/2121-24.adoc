@@ -1,0 +1,506 @@
+= Math 2121, Calculus for the life sciences, I
+:source-highlighter: coderay
+:stem:
+
+In this set of notes we work through some notions and
+examples from calculus.  You can read the questions
+here, study the handwritten notes, and while doing
+so, listen to some explanations by clicking on the
+"play" button.
+
+== Lesson 24, Mock Final Exam.
+* MOCK FINAL EXAM
+* INSTRUCTIONS
+* 1. Do not open the exam paper or start working until you are told to do so.
+* 2. Bubble in your name as DOE John S (if it is John S. Doe), bubble in your student
+ID number.
+* 3. NO NOTES OR BOOKS ARE ALLOWED. You may not communicate with others
+during the exam. Please be considerate and refrain from making noise. Switch off any
+beepers, cell phones, etc.
+* 4. Bubble in your answer to, say, Question 4, on line 4.
+* 5. The exam is self-explanatory. The instructor will not interpret the questions for you.
+You may, however, ask for another copy of the exam if your copy is illegible.
+* 6. Have your calculator in RADIAN MODE. You can set radian mode by pressing
+a button called MODE, SET UP, or DRG (degree, radian, gradian).
+----
+----
+image::2121-24-01a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-01.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-01.PNG[Work]
+----
+----
+
+image::2121-24-02a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-02.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-02.PNG[Work]
+----
+----
+
+image::2121-24-03a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-03.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-03.PNG[Work]
+----
+----
+
+image::2121-24-04a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-04.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-04.PNG[Work]
+----
+----
+
+image::2121-24-05a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-05.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-05.PNG[Work]
+----
+----
+
+image::2121-24-06a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-06.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-06.PNG[Work]
+----
+----
+
+image::2121-24-07a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-07.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-07.PNG[Work]
+----
+----
+
+image::2121-24-08a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-08.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-08.PNG[Work]
+----
+----
+
+image::2121-24-09a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-09.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-09.PNG[Work]
+----
+----
+
+image::2121-24-10a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-10.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-10.PNG[Work]
+----
+----
+
+image::2121-24-11a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-11.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-11.PNG[Work]
+----
+----
+
+image::2121-24-12a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-12.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-12.PNG[Work]
+----
+----
+
+image::2121-24-13a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-13.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-13.PNG[Work]
+----
+----
+
+image::2121-24-14a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-14.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-14.PNG[Work]
+----
+----
+
+image::2121-24-15a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-15.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-15.PNG[Work]
+----
+----
+
+image::2121-24-16a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-16.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-16.PNG[Work]
+----
+----
+
+image::2121-24-17a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-17.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-17.PNG[Work]
+----
+----
+
+image::2121-24-18a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-18.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-18.PNG[Work]
+----
+----
+
+image::2121-24-19a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-19.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-19.PNG[Work]
+----
+----
+
+image::2121-24-20a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-20.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-20.PNG[Work]
+----
+----
+
+image::2121-24-21a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-21.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-21.PNG[Work]
+----
+----
+
+image::2121-24-22a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-22.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-22.PNG[Work]
+----
+----
+
+image::2121-24-23a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-23.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-23.PNG[Work]
+----
+----
+
+image::2121-24-24a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-24.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-24.PNG[Work]
+----
+----
+
+image::2121-24-25a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-25.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-25.PNG[Work]
+----
+----
+
+image::2121-24-26a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-26.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-26.PNG[Work]
+----
+----
+
+image::2121-24-27a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-27.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-27.PNG[Work]
+----
+----
+
+image::2121-24-28a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-28.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-28.PNG[Work]
+----
+----
+
+image::2121-24-29a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-29.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-29.PNG[Work]
+----
+----
+
+image::2121-24-30a.PNG[Work]
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-24-30.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-24-30.PNG[Work]
+----
+----
+

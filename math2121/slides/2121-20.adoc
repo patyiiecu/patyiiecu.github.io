@@ -1,0 +1,528 @@
+= Math 2121, Calculus for the life sciences, I
+:source-highlighter: coderay
+:stem:
+
+In this set of notes we work through some notions and
+examples from calculus.  You can read the questions
+here, study the handwritten notes, and while doing
+so, listen to some explanations by clicking on the
+"play" button.
+
+== Lesson 20, Concavity and the Second Derivative Test (continued); Curve Sketching.
+
+*Question.* (5.3:p294/47) Find the intervals on which stem:[f] is concave up or concave down for stem:[f(x)=18x-18e^{-x}].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-01.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-01.PNG[Work]
+----
+----
+
+*Question.* (5.3:p294/47) Find the intervals on which stem:[f] is concave up or concave down for stem:[f(x)=x^{8/3}-4x^{5/3}].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-08.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-08.PNG[Work]
+----
+----
+
+
+*Question.* (5.3:p294/51) Find the intervals on which stem:[f] is concave up or concave down for stem:[f(x)=ln(x^2+1)].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-02.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-02a.PNG[Work]
+image::2121-20-02b.PNG[Work]
+----
+----
+
+
+*Question.* (5.3:p294/53) Find the intervals on which stem:[f] is concave up or concave down for stem:[f(x)=x^2 log|x|].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-03.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-03a.PNG[Work]
+image::2121-20-03b.PNG[Work]
+----
+----
+
+
+*Question.* (5.4:p306/3) Sketch the function stem:[f(x)=-2x^3-9x^2+108x-10].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-04.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-04a.PNG[Work]
+image::2121-20-04b.PNG[Work]
+----
+----
+
+
+*Question.* (5.4:p306/3) Sketch the function stem:[f(x)=x^4-24x^2+80].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-05.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-05a.PNG[Work]
+image::2121-20-05b.PNG[Work]
+----
+----
+
+
+*Question.* (5.4:p306/11) Sketch the function stem:[f(x)=2x+10/x], stem:[x ne 0].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-06.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-06a.PNG[Work]
+image::2121-20-06b.PNG[Work]
+----
+----
+
+
+*Question.* (5.4:p306/13) Sketch the function stem:[f(x)={-x+4}/{x+2}].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-07.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-07a.PNG[Work]
+image::2121-20-07b.PNG[Work]
+----
+----
+
+////
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-09.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-09.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-10.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-10.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-11.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-11.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-12.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-12.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-13.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-13.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-14.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-14.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-15.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-15.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-16.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-16.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-17.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-17.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-18.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-18.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-19.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-19.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-20.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-20.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-21.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-21.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-22.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-22.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-23.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-23.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-24.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-24.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-25.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-25.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-26.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-26.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-27.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-27.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-28.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-28.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-29.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-29.PNG[Work]
+----
+----
+
+
+*Question.* () stem:[].
+++++
+<figure>
+    <figcaption>Solution</figcaption>
+    <audio
+	controls
+	src="./2121-20-30.m4a">
+	    Your browser does not support the
+	    <code>audio</code> element.
+    </audio>
+</figure>
+++++
+image::2121-20-30.PNG[Work]
+----
+----
+
+////

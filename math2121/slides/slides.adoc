@@ -1,0 +1,68 @@
+= Math 2121, Calculus for the life sciences, I.
+:source-highlighter: coderay
+:stem:
+
+In this set of notes we work through some notions and
+examples from calculus.  You can read the questions
+here, study the handwritten notes, and while doing
+so, listen to some explanations by clicking on the
+"play" button.
+
+
+////
+q=r"link:2121-%02d.html[Lesson %d]"
+for i in range(1,1+24):
+  print(q % (i,i))
+  print("")
+////
+
+link:2121-01.html[Lesson 1, Review.]
+
+link:2121-02.html[Lesson 2, Review, Lines and Linear Functions.]
+
+link:2121-03.html[Lesson 3, Lines, Properties of Functions, Quadratic Functions.]
+
+link:2121-04.html[Lesson 4, Quadratic Functions; Polynomial and Rational Functions; The Exponential Function.]
+
+link:2121-05.html[Lesson 5, The exponential function (continued).]
+
+link:2121-06.html[Lesson 6, The Logarithmic Functions; Exponential Growth and Decay; Trigonometric Functions.]
+
+link:2121-07.html[Lesson 7, Trigonometric functions (continued); Limits.]
+
+link:2121-08.html[Lesson 8, Limits (continued); Continuity; Rates of Change.]
+
+link:2121-09.html[Lesson 9, Mock Midterm Exam 1.]
+
+link:2121-10.html[Lesson 10, Rates of Change; Definition of the Derivative; Finding Derivatives.]
+
+link:2121-11.html[Lesson 11, Rules of Differentiation; Derivatives of Products and Quotients.]
+
+link:2121-12.html[Lesson 12, The Chain Rule.]
+
+link:2121-13.html[Lesson 13, The Derivative of the Exponential Function; The Derivative of the Logarithmic Function.]
+
+link:2121-14.html[Lesson 14, The Derivative of the Logarithmic Function (continued); The Derivatives of Trigonometric Functions.]
+
+link:2121-15.html[Lesson 15, The Derivatives of Trigonometric Functions (continued); Increasing and Decreasing Functions.]
+
+link:2121-16.html[Lesson 16, Increasing and Decreasing Functions (continued); Relative extrema.]
+
+link:2121-17.html[Lesson 17, Relative extrema (continued).]
+
+link:2121-18.html[Lesson 18, Mock Midterm Exam 2.]
+
+link:2121-19.html[Lesson 19, Higher Derivatives, Concavity and the Second Derivative Test.]
+
+link:2121-20.html[Lesson 20, Concavity and the Second Derivative Test (continued); Curve Sketching.]
+
+link:2121-21.html[Lesson 21, Curve Sketching (continued); Absolute Extrema.]
+
+link:2121-22.html[Lesson 22, Application of Extrema.]
+
+link:2121-23.html[Lesson 23, Mock Midterm Exam 3.]
+
+link:2121-24.html[Lesson 24, Mock Final Exam.]
+
+
+

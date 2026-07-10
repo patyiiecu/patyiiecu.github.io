@@ -1,0 +1,6 @@
+I used these Octave commands to make the very faint pictures much darker.
+
+>> A=imread("D:/pp/Teaching/ECU/2008/8W1-math-2121-604-online/Canvas/Canvas-files/Lessons/lesson-slides/2121-slide-22/2121-22-11A.PNG") ;
+>> B=0*(A<242)+A.*(A>=242) ; imshow(B)
+>> imwrite (B,"D:/pp/Teaching/ECU/2008/8W1-math-2121-604-online/Canvas/Canvas-files/Lessons/lesson-slides/2121-slide-22/2121-22-11.PNG")
+>>
