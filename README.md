@@ -9,3 +9,5 @@
 [Math 2228, A walk through the online homework](./math2228/introduction/online-homework.html)
 
 [Math 2121 slides](./math2121/slides/slides.html)
+
+[Math 2122 slides](./math2122/slides/slides.html)

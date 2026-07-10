@@ -1,0 +1,60 @@
+= Math 2122, Calculus for the life sciences, II.
+:source-highlighter: coderay
+:stem:
+
+In this set of notes we work through some notions and
+examples from calculus.  You can read the questions
+here, study the handwritten notes, and while doing
+so, listen to some explanations by clicking on the
+"play" button.
+
+
+
+link:2122-01.html[Lesson 1, Review, Antiderivatives.]
+
+link:2122-02.html[Lesson 2, Antiderivatives (continued); Substitution in Indefinite Integrals.]
+
+link:2122-03.html[Lesson 3, Substitution in Indefinite Integrals (continued); Area and the Definite Integral.]
+
+link:2122-04.html[Lesson 4, Area and the Definite Integral (continued); The Fundamental Theorem of Calculus.]
+
+link:2122-05.html[Lesson 5, The Fundamental Theorem of Calculus (continued).]
+
+link:2122-06.html[Lesson 6, The Fundamental Theorem of Calculus (continued); The Area between Two Curves.]
+
+link:2122-07.html[Lesson 7, The Area between Two Curves (continued); Integration by Parts.]
+
+link:2122-08.html[Lesson 8, Integration by Parts (continued).]
+
+link:2122-09.html[Lesson 9, Mock Midterm Exam 1.]
+
+link:2122-10.html[Lesson 10,  Integration by Parts (continued); Functions of Several Variables.]
+
+link:2122-11.html[Lesson 11, Functions of Several Variables (continued). ]
+
+link:2122-12.html[Lesson 12, Partial Derivatives.]
+
+link:2122-13.html[Lesson 13, Partial Derivatives (continued); Maxima and Minima.]
+
+link:2122-14.html[Lesson 14, Maxima and Minima (continued); Total Differentials and Linear Approximations.]
+
+link:2122-15.html[Lesson 15, Solution of Linear Systems (continued).]
+
+link:2122-16.html[Lesson 16, Solution of Linear Systems (continued); Addition and Subtraction of Matrices; Multiplication of Matrices.]
+
+link:2122-17.html[Lesson 17, Multiplication of Matrices (continued); ]
+
+link:2122-18.html[Lesson 18, Mock Midterm Exam 2.]
+
+link:2122-19.html[Lesson 19, Ordinary Differential Equations. ]
+
+link:2122-20.html[Lesson 20, Ordinary Differential Equations (continued).]
+
+link:2122-21.html[Lesson 21, Ordinary Differential Equations (continued); First-Order Linear Differential Equations.]
+
+link:2122-22.html[Lesson 22, First-Order Linear Differential Equations (continued).]
+
+link:2122-23.html[Lesson 23, Mock Midterm Exam 3.]
+
+link:2122-24.html[Lesson 24, Mock Final Exam.]
+
